@@ -300,7 +300,7 @@ function App() {
           <MessageSquare className="w-10 h-10" />
      AI ChatBot
         </h1>
-        <p className="text-center mt-2 text-blue-100">© 2025 Osama Sarfaraz</p>
+        <p className="text-center mt-2 text-blue-100">© 2025 </p>
       </div>
 
       {/* Processing File Notification */}
